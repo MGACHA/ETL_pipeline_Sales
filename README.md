@@ -23,3 +23,5 @@ This project builds an end-to-end ETL pipeline using a retail dataset. It extrac
 8. Data quality checks and KPI outputs are saved in the /outputs and /images folder for reproducibility:
   - [Monthly Sales](outputs/monthly_sales.cvs)
   - [Summary](outputs/summary_statistics.cvs)
+  - [Delivery Stats](outputs/delivery_stats.csv)
+  - [Clean Data](outputs/clean_data_sample.csv)
