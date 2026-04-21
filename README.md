@@ -25,3 +25,9 @@ This project builds an end-to-end ETL pipeline using a retail dataset. It extrac
   - [Summary](outputs/summary_statistics.cvs)
   - [Delivery Stats](outputs/delivery_stats.csv)
   - [Clean Data](outputs/clean_data_sample.csv)
+9. Power BI Dashboard - this dashboard visualises key business metrics from the cleaned dataset:
+- Monthly sales trends
+- Profitability by category
+- Delivery performance
+- Customer segmentation
+- [Dashboard](images/dashboard_overview.png)
